@@ -101,21 +101,14 @@ Route:
 ```
 npm install
 ```
-2. Create the database
-```
 npm run setup_db
 ```
-3. Seed the database
-
 ```
 npm run seed
 ```
-4. Run the development server
-
 ```
 npm run dev
 ```
-5. Production build (optional)
 ```
 npm run build
 npm run start
