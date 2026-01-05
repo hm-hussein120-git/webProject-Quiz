@@ -98,19 +98,22 @@ Route:
 
 ### 1. Install dependencies
 ```bash
-```
-```
 npm install
 ```
+### 2. Create the database
+```bash
 npm run setup_db
 ```
-```
+### 3. Seed the database
+```bash
 npm run seed
 ```
-```
+### 4. Run the development server
+```bash
 npm run dev
 ```
-```
+### 5. Production build (optional)
+```bash
 npm run build
 npm run start
 ```
